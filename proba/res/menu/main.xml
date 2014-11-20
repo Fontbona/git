@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.proba.MainActivity" >
+
+    <item
+        android:id="@+id/main_1"
+        android:orderInCategory="100"
+        android:title="Filtrar"
+        app:showAsAction="never" android:enabled="true" android:visible="true">
+        <menu>
+            <item android:id="@+id/main_1.1" android:visible="true" android:enabled="false" android:title="Playas" android:checkable="true" android:checked="true"/>
+            <item android:id="@+id/main_1.2" android:visible="false" android:enabled="true" android:title="Lugares" android:checkable="true" android:checked="true"/>
+            <item android:id="@+id/main_1.3" android:title="Tiendas" android:visible="true" android:enabled="true" android:checkable="true" android:checked="true"/>
+        </menu>
+    </item>
+    <item android:id="@+id/main_2" android:title="Buscar" android:enabled="true" android:visible="true"></item>
+    <item android:id="@+id/main_3" android:title="Ayuda" android:enabled="true" android:visible="true">
+        <menu>
+            <item android:id="@+id/main_3.1" android:title="xahjxasvaxhsvvxjas jhadsdjahhdv dsahjsdgdhgjhadghdagjdgjhahdjgdjhaghgahdgjgjsgjds uigdehjwdejhgdewghewgdwufwjrfk,we kewehdwjdewd." android:visible="true" android:enabled="true"/>
+        </menu>
+    </item>
+
+</menu>

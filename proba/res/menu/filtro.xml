@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.proba.MainActivity" >
+    <group android:id="@+id/group1">
+        <item android:id="@+id/filtro.1" android:title="Playas" android:checkable="true" android:enabled="true" android:visible="false" android:checked="true"></item>
+        <item android:id="@+id/item2" android:title="Lugares" android:checkable="true" android:enabled="true" android:visible="true" android:checked="true"></item>
+        <item android:id="@+id/item3" android:checkable="true" android:title="Tiendas" android:enabled="false" android:visible="true" android:checked="true"></item>
+    </group>
+
+</menu>
