@@ -15,6 +15,7 @@ public class FiltroActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.layout_mapa);
+		//elTopo
 	}
 
 	@Override
