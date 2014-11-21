@@ -16,6 +16,7 @@ public class FiltroActivity extends ActionBarActivity {
 		requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.layout_mapa);
 		//elTopof3urf
+		//puto eclipse de merda i puto GIIITTTT
 	}
 
 	@Override
