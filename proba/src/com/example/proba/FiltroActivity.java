@@ -17,6 +17,7 @@ public class FiltroActivity extends ActionBarActivity {
 		setContentView(R.layout.layout_mapa);
 		//elTopof3urf
 		//puto eclipse de merda i puto GIIITTTT
+		// IS PUTA LIBRERY
 	}
 
 	@Override
